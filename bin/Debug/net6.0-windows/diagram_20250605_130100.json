@@ -1,0 +1,149 @@
+[
+  {
+    "Type": "Triangle",
+    "Name": "Triangle_1",
+    "X": 370,
+    "Y": 70,
+    "SideLength": 60,
+    "Area": 1558.8457268119894,
+    "FillColor": "Green",
+    "BorderColor": "DarkGreen",
+    "CreatedAt": "2025-06-05T13:00:40.8646613+07:00"
+  },
+  {
+    "Type": "Circle",
+    "Name": "Circle_2",
+    "X": 240,
+    "Y": 90,
+    "Radius": 40,
+    "Area": 5026.548245743669,
+    "FillColor": "Red",
+    "BorderColor": "DarkRed",
+    "CreatedAt": "2025-06-05T13:00:41.2969875+07:00"
+  },
+  {
+    "Type": "Rectangle",
+    "Name": "Rectangle_3",
+    "X": 110,
+    "Y": 110,
+    "Width": 80,
+    "Height": 60,
+    "Area": 4800,
+    "FillColor": "Blue",
+    "BorderColor": "DarkBlue",
+    "CreatedAt": "2025-06-05T13:00:41.6002043+07:00"
+  },
+  {
+    "Type": "Circle",
+    "Name": "Circle_4",
+    "X": 280,
+    "Y": 130,
+    "Radius": 40,
+    "Area": 5026.548245743669,
+    "FillColor": "Red",
+    "BorderColor": "DarkRed",
+    "CreatedAt": "2025-06-05T13:00:42.8596976+07:00"
+  },
+  {
+    "Type": "Triangle",
+    "Name": "Triangle_5",
+    "X": 450,
+    "Y": 150,
+    "SideLength": 60,
+    "Area": 1558.8457268119894,
+    "FillColor": "Green",
+    "BorderColor": "DarkGreen",
+    "CreatedAt": "2025-06-05T13:00:43.1349178+07:00"
+  },
+  {
+    "Type": "Rectangle",
+    "Name": "Rectangle_6",
+    "X": 170,
+    "Y": 170,
+    "Width": 80,
+    "Height": 60,
+    "Area": 4800,
+    "FillColor": "Blue",
+    "BorderColor": "DarkBlue",
+    "CreatedAt": "2025-06-05T13:00:43.6351343+07:00"
+  },
+  {
+    "Type": "Rectangle",
+    "Name": "Rectangle_7",
+    "X": 190,
+    "Y": 190,
+    "Width": 80,
+    "Height": 60,
+    "Area": 4800,
+    "FillColor": "Blue",
+    "BorderColor": "DarkBlue",
+    "CreatedAt": "2025-06-05T13:00:44.065828+07:00"
+  },
+  {
+    "Type": "Rectangle",
+    "Name": "Rectangle_8",
+    "X": 210,
+    "Y": 210,
+    "Width": 80,
+    "Height": 60,
+    "Area": 4800,
+    "FillColor": "Blue",
+    "BorderColor": "DarkBlue",
+    "CreatedAt": "2025-06-05T13:00:44.2329497+07:00"
+  },
+  {
+    "Type": "Circle",
+    "Name": "Circle_9",
+    "X": 380,
+    "Y": 230,
+    "Radius": 40,
+    "Area": 5026.548245743669,
+    "FillColor": "Red",
+    "BorderColor": "DarkRed",
+    "CreatedAt": "2025-06-05T13:00:44.4668819+07:00"
+  },
+  {
+    "Type": "Circle",
+    "Name": "Circle_10",
+    "X": 400,
+    "Y": 250,
+    "Radius": 40,
+    "Area": 5026.548245743669,
+    "FillColor": "Red",
+    "BorderColor": "DarkRed",
+    "CreatedAt": "2025-06-05T13:00:44.6489587+07:00"
+  },
+  {
+    "Type": "Triangle",
+    "Name": "Triangle_11",
+    "X": 570,
+    "Y": 270,
+    "SideLength": 60,
+    "Area": 1558.8457268119894,
+    "FillColor": "Green",
+    "BorderColor": "DarkGreen",
+    "CreatedAt": "2025-06-05T13:00:44.9400483+07:00"
+  },
+  {
+    "Type": "Triangle",
+    "Name": "Triangle_11_Copy",
+    "X": 590,
+    "Y": 290,
+    "SideLength": 60,
+    "Area": 1558.8457268119894,
+    "FillColor": "Green",
+    "BorderColor": "DarkGreen",
+    "CreatedAt": "2025-06-05T13:00:49.1870929+07:00"
+  },
+  {
+    "Type": "Circle",
+    "Name": "Circle_4_Copy",
+    "X": 300,
+    "Y": 150,
+    "Radius": 40,
+    "Area": 5026.548245743669,
+    "FillColor": "Red",
+    "BorderColor": "DarkRed",
+    "CreatedAt": "2025-06-05T13:00:53.5409821+07:00"
+  }
+]

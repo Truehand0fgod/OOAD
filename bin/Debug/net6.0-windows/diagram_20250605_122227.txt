@@ -1,0 +1,12 @@
+PDF Export Simulation
+Generated: 05.06.2025 12:22:27
+Total shapes: 9
+Shape: Rectangle_1 at (70,0, 70,0)
+Shape: Circle_2 at (240,0, 90,0)
+Shape: Triangle_3 at (410,0, 110,0)
+Shape: Triangle_4 at (430,0, 130,0)
+Shape: Circle_5 at (300,0, 150,0)
+Shape: Rectangle_6 at (170,0, 170,0)
+Shape: Rectangle_7 at (190,0, 190,0)
+Shape: Circle_8 at (360,0, 210,0)
+Shape: Triangle_9 at (530,0, 230,0)
